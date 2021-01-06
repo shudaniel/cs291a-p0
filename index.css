@@ -33,3 +33,7 @@ h1 {
 .yellow {
     color: yellow;
 }
+
+.gif_proportions {
+    max-width: 50px;
+}
