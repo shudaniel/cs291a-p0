@@ -1,0 +1,1 @@
+I wanted to create something fun/jokey that reminded me of the old 90s webpages that had a lot of gifs and bad css design. 
