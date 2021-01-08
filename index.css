@@ -5,6 +5,10 @@ body {
 h1 {
     color: red;
 }
+td{
+ text-align: center;
+}
+
 
 .orange {
     color: orange;
@@ -39,5 +43,5 @@ h1 {
 }
 
 .img_proportions {
-    max-height: 200px;
+    max-height: 300px;
 }
